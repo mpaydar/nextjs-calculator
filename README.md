@@ -3,6 +3,7 @@ You need to install next.js, react, react.js, tailwind using the node package ma
 first do the following:
 
 npm init
+
 npm install next@latest react@latest react-dom@latest tailwind@latest
 
 ## To run the project, do the following
